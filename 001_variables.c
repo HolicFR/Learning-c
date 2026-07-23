@@ -3,7 +3,7 @@
    int a;
    int b;
    a=1000;
-   b=2000;
+   b=6000;
    printf("The sum of a and b is %d\n", a+b);
     return 0;
  }
