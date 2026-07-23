@@ -1,10 +1,11 @@
 #include <stdio.h>
- int main() {
-    int a = 10;
-    int b = 20;
-
-    printf("The sum of a and b is: %d\n", a+b);
-    printf("The difference of a and b is: %d\n", a-b);
-    return 0;
-
+ int main () {
+   int a;
+   int b;
+   a=100;
+   b=200;
+   printf(the sum of a and b is %\n", a+b);
+      return 0;
+      
+      
  }
