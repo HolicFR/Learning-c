@@ -12,7 +12,7 @@
 
     
     printf("You are %d years old ", a);
-    printf("And you Weigh %d kg's at the age of %d", b, a);
+    printf("And you Weigh %d kg's at the age of %d\n", b, a);
 
     printf("Do you want a health advice? (1 for yes, 0 for no): ");
     int choice;
@@ -21,9 +21,11 @@
      if (choice == 1) {
         printf("You should exercise regularly and maintain a balanced diet.\n");
      }
-     if (choice == 0) { 10
+     if (choice == 0) { 10;
+
         printf("Okay, Doesn't Matter, HIT THE GYM!!!\n");
-     }
+     
+      }
 
       return 0;
 
