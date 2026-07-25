@@ -1,14 +1,14 @@
 #include <stdio.h>
 
 int main() {
- 
-    int myNum = 5;
-    float myfloatNum = 5.90;
-    char myChar = 'M';
 
-    printf("My Number is %d\n", myNum);
-    printf("My float Number is %f\n", myfloatNum);
-    printf("My name starts with %c\n", myChar);
+    int mynum = 67;
+    float myfloat = 5.7;
+    char mychar = 'M';
+
+    printf("My Number is %d\n", mynum);
+    printf("My height is %.1f\n", myfloat);
+    printf("My name starts with the letter %c\n", mychar);
 
     return 0;
 }
