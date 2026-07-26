@@ -14,6 +14,7 @@ This Repository contains my C programming practice programs.
 - Data types
 
 26/07/2026
+- learnt how to use obsidian
 
 
 created while learning C And streaming on Youtube:@LitCode.
