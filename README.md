@@ -10,7 +10,8 @@ This Repository contains my C programming practice programs.
 ##Topics Covered
 -Variables
 - Data types
-- scanf() and printf()  
+- scanf() and printf()
+- Data types
 
 created while learning C And streaming on Youtube:@LitCode.
 link to YouTube: https://www.youtube.com/@litcodelive .
