@@ -13,5 +13,8 @@ This Repository contains my C programming practice programs.
 - scanf() and printf()
 - Data types
 
+26/07/2026
+
+
 created while learning C And streaming on Youtube:@LitCode.
 link to YouTube: https://www.youtube.com/@litcodelive .
