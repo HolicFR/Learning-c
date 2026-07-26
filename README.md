@@ -16,6 +16,8 @@ This Repository contains my C programming practice programs.
 26/07/2026
 - learnt how to use obsidian
 - wrote notes about variables that includes :
+- definition of variables
+- rules of variables in c 
 
 
 created while learning C And streaming on Youtube:@LitCode.
