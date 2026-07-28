@@ -1,17 +1,23 @@
-#include <stdio.H>
+#include <stdio.h>
 
-//Here if i use return 0; after void greet it wont't return the value because it does nothing. only int and other Data types can return the value. 
-
+// A void function performs a task but DOES NOT return a value.
 void greet() {
-    printf("Hello i am void\n");
+    printf("Hello, I am void!\n");
+    // If you wrote: return 0; here, it would cause an error
+    // because a void function cannot return a value.
 }
-// Till here if i run the code it wont output any value and return with error.
-// But if i use int main things will change
+
 int main() {
+
+    // Every C program starts execution from main().
+    // It does NOT start from greet().
+
+    // Calling the greet() function.
     greet();
 
+    // After greet() finishes, control comes back to main().
+
+    // Returning 0 tells the operating system that
+    // the program ended successfully.
     return 0;
-
 }
-
-// This will now print the statement provided in the printf function of Void greet before int main () 
