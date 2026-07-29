@@ -4,5 +4,5 @@
 
     printf("%.2f\n", myNum);
     return 0;
-    
+
  }
