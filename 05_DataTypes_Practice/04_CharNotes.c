@@ -10,4 +10,5 @@
 
 //Output here was "O".
 
+// Note: Don't use the char type for storing multiple characters, as it may produce errors
 }
