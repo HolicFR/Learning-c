@@ -6,3 +6,6 @@
     return 0;
 
  }
+
+ //Changing the name to float type for better organisation in repo 
+// p.s Ignore this 
