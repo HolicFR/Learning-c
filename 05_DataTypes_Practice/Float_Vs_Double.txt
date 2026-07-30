@@ -4,3 +4,4 @@ The "precision" of a floating point value indicates how many digits the value ca
  The precision of "float" is six or seven decimal digits, while "double" variables have a precision of about 15 digits.
   Therefore, it is often safer to use "double" for most calculations 
   - but note that it takes up twice as much "memory" as "float" (8 bytes vs. 4 bytes).
+  

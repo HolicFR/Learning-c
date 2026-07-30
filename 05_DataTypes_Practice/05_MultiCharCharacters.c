@@ -7,5 +7,5 @@
     return 0;
 }
 
-//To store multiple characters (or whole words), use strings
-//Will learn more about *STRINGS* later
+// To store multiple characters (or whole words), use strings
+// Will learn more about *STRINGS* later.
