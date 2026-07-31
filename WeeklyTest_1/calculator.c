@@ -25,4 +25,4 @@ Input:
 Output:
 Sum = 8
 Difference = 2
-Product = 15*/
+Product = 15       */
