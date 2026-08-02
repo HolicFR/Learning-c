@@ -8,7 +8,7 @@ int main(void) {
     printf("Enter Your Password: ");
     scanf("%d", &enteredPassword);
 
-    bool passwordCorrect = (enteredPassword == correctPassword);
+    bool passwordCorrect = (enteredPassword == correctPassword); // IMPORTANT
 
     if (passwordCorrect) {
         printf("Login Succesfull");
