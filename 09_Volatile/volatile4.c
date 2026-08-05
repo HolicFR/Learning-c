@@ -1,3 +1,5 @@
+// A Better Example — Hardware Button
+// 
 // Imagine you're programming a microcontroller.
 
 volatile int buttonPressed = 0;
