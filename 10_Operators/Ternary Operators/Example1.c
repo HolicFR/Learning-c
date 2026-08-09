@@ -1,3 +1,5 @@
+// The following C program uses the ternary operator to check if the value of a variable is even or odd.
+
 #include <stdio.h>  
     int main() { 
 
