@@ -15,3 +15,5 @@ int main(void) {
     printf("%s\\n", isPrime(n) ? "Prime" : "Not prime");
     return 0;
 }
+
+// contribution batch 3
