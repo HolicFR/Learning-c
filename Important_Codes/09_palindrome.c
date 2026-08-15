@@ -19,3 +19,5 @@ int main(void) {
     printf("%s\\n", isPalindrome ? "Palindrome" : "Not a palindrome");
     return 0;
 }
+
+// contribution batch 9
