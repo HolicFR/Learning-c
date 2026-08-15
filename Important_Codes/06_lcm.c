@@ -16,3 +16,5 @@ int main(void) {
     printf("LCM is %d\\n", (a / gcd(a, b)) * b);
     return 0;
 }
+
+// contribution batch 6
