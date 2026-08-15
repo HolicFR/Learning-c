@@ -1,15 +1,3 @@
-#include <stdio.h>
-
-int main() {
-
-    const int myNum = 67; // myNum will always be 67
-    myNum = 10; // error: assignment of read-only variable 'myNum'
-    printf("My Number is %d\n", myNum);
-    return 0;
-}
-
-
-//This throws an error because variable is likely to change.
-
-// You should always declare a variable as const when you have values that are unlikely to change:
-// 2
+﻿#include <stdio.h>
+long long fact(int n){ return n <= 1 ? 1 : n * fact(n - 1); }
+int main(void){ int n; printf("Enter a number: "); scanf("%d", &n); printf("Factorial = %lld\n", fact(n)); return 0; }
