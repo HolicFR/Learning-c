@@ -12,4 +12,4 @@ int main() {
 //This throws an error because variable is likely to change.
 
 // You should always declare a variable as const when you have values that are unlikely to change:
-// 1
+// 2
