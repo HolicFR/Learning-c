@@ -8,3 +8,5 @@ int main(void) {
     printf("Simple Interest = %.2f\\n", interest);
     return 0;
 }
+
+// contribution batch 10
