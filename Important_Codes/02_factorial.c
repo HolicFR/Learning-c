@@ -12,3 +12,5 @@ int main(void) {
     printf("Factorial of %d is %lld\\n", n, factorial(n));
     return 0;
 }
+
+// contribution batch 2
