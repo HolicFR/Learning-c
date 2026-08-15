@@ -22,3 +22,5 @@ int main(void) {
     printf("%s\\n", sum == num ? "Armstrong number" : "Not an Armstrong number");
     return 0;
 }
+
+// contribution batch 20
