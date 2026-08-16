@@ -1,4 +1,4 @@
 for (init; condition; increment){
-    statement(s);
+    statementt(s);
 }
 // Syntax for loop
