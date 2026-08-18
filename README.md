@@ -25,6 +25,7 @@ This Repository contains my C programming practice programs.
 Topics Completed :
 - Operators
   Arithmetic
+  Comparison
 - Control Flow
 - Functions
   
