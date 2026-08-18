@@ -32,7 +32,7 @@ Topics Completed :
   
 - Control Flow
   If else / Switch
-  
+  For / While / Do while Loops
 - Functions
   
 Obsidian:
