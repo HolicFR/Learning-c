@@ -29,7 +29,10 @@ Topics Completed :
   Logical
   Ternary
   BitWise
+  
 - Control Flow
+  If else / Switch
+  
 - Functions
   
 Obsidian:
