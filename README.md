@@ -28,6 +28,7 @@ Topics Completed :
   Comparison
   Logical
   Ternary
+  BitWise
 - Control Flow
 - Functions
   
