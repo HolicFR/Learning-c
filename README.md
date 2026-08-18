@@ -26,6 +26,7 @@ Topics Completed :
 - Operators
   Arithmetic
   Comparison
+  Logical
 - Control Flow
 - Functions
   
