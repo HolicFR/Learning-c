@@ -27,6 +27,7 @@ Topics Completed :
   Arithmetic
   Comparison
   Logical
+  Ternary
 - Control Flow
 - Functions
   
