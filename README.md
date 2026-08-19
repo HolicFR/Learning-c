@@ -36,11 +36,8 @@ Topics Completed :
   break / continue
   
 - Functions
-  
 Obsidian:
 - Added Notes For Topics mentioned Above. 
   
-
-
 created while learning C And streaming on Youtube:@LitCode.
 link to YouTube: https://www.youtube.com/@litcodelive .
