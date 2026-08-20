@@ -29,12 +29,13 @@ Topics Completed :
   Logical
   Ternary
   BitWise
-  Nested Statements
+  
   
 - Control Flow
   If else / Switch
   For / While / Do while Loops
   break / continue
+  
   
 - Functions
   
