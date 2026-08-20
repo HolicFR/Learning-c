@@ -29,6 +29,7 @@ Topics Completed :
   Logical
   Ternary
   BitWise
+  Nested Statements
   
 - Control Flow
   If else / Switch
@@ -40,6 +41,7 @@ Topics Completed :
 Obsidian:
 - Added Notes For Topics mentioned Above.
 - Created Easy to Understand Graph Links
+- 
   
 created while learning C And streaming on Youtube:@LitCode.
 link to YouTube: https://www.youtube.com/@litcodelive .
