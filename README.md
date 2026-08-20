@@ -39,6 +39,7 @@ Topics Completed :
   If-Else-If-Ladder
   Nested IF Statements
   Ternary Operators
+  For loop and nested loops
   
   
 - Functions
