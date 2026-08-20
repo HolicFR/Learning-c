@@ -38,6 +38,7 @@ Topics Completed :
   IF-Statement
   If-Else-If-Ladder
   Nested IF Statements
+  Ternary Operators
   
   
 - Functions
