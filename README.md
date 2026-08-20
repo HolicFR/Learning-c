@@ -40,6 +40,7 @@ Topics Completed :
   Nested IF Statements
   Ternary Operators
   For loop and nested loops
+  While and do while loop
   
   
 - Functions
