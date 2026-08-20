@@ -41,6 +41,7 @@ Topics Completed :
   Ternary Operators
   For loop and nested loops
   While and do while loop
+  Break continue qoto
   
   
 - Functions
