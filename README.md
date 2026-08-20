@@ -38,8 +38,8 @@ Topics Completed :
 - Functions
   
 Obsidian:
-
-- Added Notes For Topics mentioned Above. 
+- Added Notes For Topics mentioned Above.
+- Created Easy to Understand Graph Links
   
 created while learning C And streaming on Youtube:@LitCode.
 link to YouTube: https://www.youtube.com/@litcodelive .
