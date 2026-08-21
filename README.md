@@ -42,13 +42,13 @@ Topics Completed :
   For loop and nested loops
   While and do while loop
   Break continue qoto
-  
-  
+
 - Functions
   
-Obsidian:
-- Added Notes For Topics mentioned Above.
-- Created Easy to Understand Graph Links
+
+  Obsidian:
+         - Added Notes For Topics mentioned Above.
+         - Created Easy to Understand Graph Links
 
   
 created while learning C And streaming on Youtube:@LitCode.
