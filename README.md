@@ -43,7 +43,9 @@ Topics Completed :
   While and do while loop
   Break continue qoto
 
+
 - Functions
+
   
   Obsidian:
          - Added Notes For Topics mentioned Above.
