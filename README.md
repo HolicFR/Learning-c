@@ -30,7 +30,6 @@ Topics Completed :
   Ternary
   BitWise
   
-  
 - Control Flow
   If else / Switch
   For / While / Do while Loops
