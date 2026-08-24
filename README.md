@@ -43,6 +43,7 @@ Topics Completed :
   Break continue qoto
 
 - Functions
+
   
   Obsidian:
          - Added Notes For Topics mentioned Above.
