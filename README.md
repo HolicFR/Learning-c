@@ -42,7 +42,6 @@ Topics Completed :
   While and do while loop
   Break continue qoto
 
-
 - Functions
 
   
