@@ -17,8 +17,38 @@ This Repository contains my C programming practice programs.
 - learnt how to use obsidian
 - wrote notes about variables that includes :
 - definition of variables
-- rules of variables in c 
+- rules of variables in c
+  
+26/07 - 18/08
+- Uploaded Notes for unreal engine 5 tools
+
+Topics Completed :
+- Operators
+  Arithmetic
+  Comparison
+  Logical
+  Ternary
+  BitWise
+  
+- Control Flow
+  If else / Switch
+  For / While / Do while Loops
+  break / continue
+  IF-Statement
+  If-Else-If-Ladder
+  Nested IF Statements
+  Ternary Operators
+  For loop and nested loops
+  While and do while loop
+  Break continue qoto
+
+- Functions
 
 
+
+  Obsidian:
+         - Added Notes For Topics mentioned Above.
+         - Created Easy to Understand Graph Links
+  
 created while learning C And streaming on Youtube:@LitCode.
 link to YouTube: https://www.youtube.com/@litcodelive .
