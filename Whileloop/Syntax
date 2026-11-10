@@ -1,0 +1,5 @@
+while(expression){
+   statement(s);
+}
+
+/*The while keyword is followed by a parenthesis, in which there should be a Boolean expression. Followed by the parenthesis, there is a block of statements inside the curly brackets.*/

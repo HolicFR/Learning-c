@@ -1,0 +1,11 @@
+// IT IS A GOOD PRACTICE TO USE CONSTANT VARIABLES WITH UPPERCASE LETTERS BECAUSE IT IS EASY TO READ. 
+
+// THO IT IS NOT REQUIRED BUT HELPS UNDERSTAND THE CODE CLEARLY.
+
+#include <stdio.h>
+
+int main() {
+const int BIRTHYEAR = 2007;
+printf("I was born in the Year: %d\n", BIRTHYEAR);
+    return 0;
+}
