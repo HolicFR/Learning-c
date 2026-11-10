@@ -1,8 +1,10 @@
 #include <stdio.h>
 
-int flag = 0;
-
 int main() {
-    while (!flag);
+
+   printf("*\n, **\n, ***);
+    
+    
+
     return 0;
 }

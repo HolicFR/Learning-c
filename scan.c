@@ -6,9 +6,10 @@ int main() {
     printf("Your number is: ");
     scanf("%d", &a);
 
-    printf("Your number is 10");
+    printf("Your number is ");
 
-    if (a % 2 == 0)  printf("Even", &a) : printf("Odd", &a);
+    if (a % 2 == 0)  printf("Even");
+        else printf("Odd");
 
     return 0;
 }
