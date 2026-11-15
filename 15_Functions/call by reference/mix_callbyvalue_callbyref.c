@@ -29,4 +29,7 @@ int main() {
     return 0;
 }
 
-/**/
+/*The Call by Reference mechanism is widely used when a function needs to perform memory-level manipulations
+
+ such as controlling the peripheral devices, performing dynamic allocation, etc.*/
+
